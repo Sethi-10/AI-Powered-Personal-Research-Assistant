@@ -1,0 +1,12 @@
+arxiv 
+transformers 
+torch 
+scikit-learn 
+spacy 
+gensim 
+tkinter
+langchain_community
+langchain-huggingface
+langchain 
+faiss-cpu 
+streamlit
