@@ -82,13 +82,20 @@ This project is a highly practical and advanced implementation of an AI-Powered 
 ## Snapshots
 
 ### GUI-Interface
-![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%203.42.02%E2%80%AFPM.png)
-![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%203.40.23%E2%80%AFPM.png)
-![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%203.40.25%E2%80%AFPM.png)
-![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%202.56.52%E2%80%AFPM.png)
-![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%202.58.03%E2%80%AFPM.png)
-![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%202.54.36%E2%80%AFPM.png)
-![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%202.54.57%E2%80%AFPM.png)
+<img width="1440" alt="Screenshot 2025-01-08 at 3 42 02 PM" src="https://github.com/user-attachments/assets/c0dbd87e-c3e8-46a3-897e-0bc98d700154" />
+
+<img width="1440" alt="Screenshot 2025-01-08 at 3 40 23 PM" src="https://github.com/user-attachments/assets/6b754894-f296-4f20-a3eb-f575e3fdc00f" />
+
+<img width="1440" alt="Screenshot 2025-01-08 at 3 40 25 PM" src="https://github.com/user-attachments/assets/46a5c1f6-977c-4430-8735-5ff356b7a241" />
+
+<img width="1440" alt="Screenshot 2025-01-08 at 2 56 52 PM" src="https://github.com/user-attachments/assets/84ee07dd-4d97-40ab-b70d-e37797206623" />
+
+<img width="1440" alt="Screenshot 1" src="https://github.com/user-attachments/assets/8bccc75c-dbc6-40c9-b8a0-5a5e027c02ac" />
+
+<img width="1440" alt="Screenshot 2" src="https://github.com/user-attachments/assets/e6929b11-0d9e-4014-81b1-601331933468" />
+
+<img width="1440" alt="Screenshot 3" src="https://github.com/user-attachments/assets/b6c9ae67-8010-47c0-9aa8-7aabd772ae37" />
+
 
 ## Technologies Used
 
