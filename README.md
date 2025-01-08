@@ -86,7 +86,8 @@ This project is a highly practical and advanced implementation of an AI-Powered 
 ![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%203.40.23%E2%80%AFPM.png)
 ![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%203.40.25%E2%80%AFPM.png)
 ![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%202.56.52%E2%80%AFPM.png)
-![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%202.58.03%E2%80%AFPM.png)
+<img width="1440" alt="Screenshot 1" src="https://github.com/user-attachments/assets/8bccc75c-dbc6-40c9-b8a0-5a5e027c02ac" />
+
 ![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%202.54.36%E2%80%AFPM.png)
 ![alt text](file:///c%3A/Users/aryan/Downloads/Screenshot%202025-01-08%20at%202.54.57%E2%80%AFPM.png)
 
