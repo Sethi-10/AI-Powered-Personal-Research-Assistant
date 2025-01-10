@@ -4,7 +4,6 @@ This project is a highly practical and advanced implementation of an AI-Powered 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
